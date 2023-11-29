@@ -1,0 +1,1 @@
+export const beerCounter = 0;
