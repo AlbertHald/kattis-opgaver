@@ -4,6 +4,5 @@ export interface IPerson {
     beerCounter?: number;
     shotCounter?: number;
     weight: number;
-    height: number;
     gender: string;
 }
